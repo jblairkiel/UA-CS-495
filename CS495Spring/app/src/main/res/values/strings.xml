@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CS495Spring</string>
+    <string name="strLogin">Login</string>
+    <string name="btnLogin">Login</string>
+</resources>
